@@ -11,7 +11,7 @@ body{
     background-repeat: no-repeat center center;
     background-size: cover;
     vertical-align: middle;
-    height: 450px;
+    height: 480px;
     width: 99%;
     margin: 2px auto;
 
@@ -19,7 +19,7 @@ body{
 #div-1{
     background: linear-gradient(to right,#292E49,#536976);
     opacity: 0.9;
-    height: 450px;
+    height: 480px;
     padding: 25px 110px;
 
 }
@@ -68,7 +68,7 @@ body{
     background-color: #fff;
     background-image: none; 
     margin: 0 auto; 
-    margin-top: 10px;
+    margin-top: 20px;
 }
 #div-1 button{
     background: #29ca8e;
